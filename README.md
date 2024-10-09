@@ -5,7 +5,9 @@ VBA Library for MS Projects
 
 This repository contains a collection of VBA subroutines and functions developed for engineering applications. The code is designed to automate calculations and enhance the functionality of Excel spreadsheets used in various engineering tasks.
 
-Majority of the VBA functions and subroutines in this repository were utilized in the development of a calculation program for ASME VIII, Div. 1. This program integrates with Power Query (M Language) for efficient data wrangling and analysis
+Most of the VBA functions and subroutines in this repository were utilized in the development of a calculation program for ASME VIII, Div. 1. This program integrates with Power Query (M Language) for efficient data wrangling and analysis.
+
+While the majority of the functions were personally developed, some of the VBA code was contributed by others in the community.
 
 ## Purpose
 
